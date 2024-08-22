@@ -45,7 +45,7 @@
 .content-rp-lys {
   font-family: Roboto;
   text-align: justify;
-  padding-top: 10px;
+  padding-top: 20px;
   box-sizing: border-box;
 }
 
@@ -53,7 +53,7 @@
   background-color: rgba(168, 203, 243, 0.6);
   padding: 15px;
   border-radius: 5px;
-  margin-top: 10px;
+  margin-top: 20px;
   box-sizing: border-box;
 }
 
