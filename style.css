@@ -74,3 +74,13 @@
   right: -65px;
   border-radius: 100px;
 }
+
+.credit {
+  text-align: center;
+  font-size: 10px;
+  text-transform: uppercase;
+  font-family: Roboto Condensed;
+  color: #272727;
+  font-weight: bold;
+  margin-top: 5px;
+}
