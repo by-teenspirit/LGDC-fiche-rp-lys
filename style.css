@@ -57,6 +57,14 @@
   box-sizing: border-box;
 }
 
+.content-lac {
+  background-color: #b1e5c5;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
 .circle-lys {
   height: 100px;
   width: 100px;
